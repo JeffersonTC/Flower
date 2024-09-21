@@ -20,6 +20,16 @@ body {
   perspective: 1000px;
 }
 
+.night h1{
+  font-size: 150px;
+  font-weight: 800;
+  font-family: Brush Script MT;
+  text-align: center;
+  text-shadow: 0 0 10px #fff, 0 0 50px #fff, 0 0 100px #fff;
+  color: #FFC0CB;
+  
+
+}
 .centrar>span {
   color: #fff;
   font-size: 100px;
